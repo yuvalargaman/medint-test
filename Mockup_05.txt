@@ -1,9 +1,7 @@
 Input:
 Patient is a 38-year-old male contact athlete who was recently diagnosed with multiple sclerosis (MS). He presents to the outpatient clinic for follow-up care and management of his MS.
-
-Initial Question:
+Initial question:
 What are the patient's primary concerns and expectations regarding his MS diagnosis and treatment?
-
 Set 1:
 1. Are there any changes in his physical symptoms, such as numbness or tingling, weakness, vision problems, or bladder/bowel issues?
 2. Has he experienced any recent exacerbations or relapses of his MS symptoms?
@@ -13,7 +11,6 @@ Set 1:
 6. Is the patient experiencing any pain or discomfort related to his MS symptoms, and if so, what is the location and character of the pain?
 7. Has he noticed any changes in his bowel habits, such as constipation, diarrhea, or urinary frequency?
 8. Are there any issues with mobility or balance that require assistance or adaptations?
-
 Set 2:
 1. Would a thorough review of his medication regimen and dosing schedule be helpful in managing his MS symptoms?
 2. Are there any alternative therapies or complementary treatments that the patient is considering or already using for symptom management?

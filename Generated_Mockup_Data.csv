@@ -1,0 +1,161 @@
+Input,Set,Question,Star Rating,Feedback
+1,1,1,3,Weak. The question lacks specificity and context. A neurologist or cognitive specialist evaluation would be crucial to understanding the patient's cognitive decline.
+1,1,2,5,"Strong. This question addresses a common comorbidity associated with cognitive decline, depression or anxiety, which could impact treatment."
+1,1,3,4,"Good. This question explores potential cognitive rehabilitation strategies, which are important for addressing the patient's cognitive decline."
+1,1,4,5,"Moderate. While reviewing medication regimens is important, this question could be strengthened by specifying how the medications may impact cognitive function."
+1,1,5,3,Strong. Optimizing lifestyle modifications can have a significant impact on overall health and potentially improve cognitive function.
+1,1,6,4,Good. This question explores potential clinical trial opportunities for addressing cognitive impairment after chemotherapy.
+1,1,7,5,"Moderate. While integrative therapies may be beneficial, this question could be strengthened by specifying how they might help the patient's cognitive decline."
+1,1,8,4,Strong. Understanding the patient's support systems can inform treatment and provide a more comprehensive approach to managing her health.
+1,2,1,1,"Moderate. While understanding the patient's family dynamics is important, this question could be strengthened by specifying how these experiences might impact her cognitive decline."
+1,2,2,3,Strong. Identifying enjoyable exercises or physical activities can inform treatment and provide a sense of control for the patient.
+1,2,3,2,"Moderate. While support groups can be beneficial, this question could be strengthened by specifying what benefits the patient has experienced from participating in these groups."
+1,2,4,2,"Moderate. While learning about healthy snacks or meals is important, this question could be strengthened by specifying how this might impact her cognitive decline."
+1,2,5,3,"Good. This question explores potential areas of interest for the patient, which can inform treatment and provide a more comprehensive approach to managing her health."
+1,2,6,3,"Moderate. While hobbies and creative outlets can be beneficial, this question could be strengthened by specifying how they have helped the patient cope with stress or emotions since her recovery."
+1,2,7,1,"Strong. Travel plans can impact the patient's overall well-being, so understanding these plans is important for providing comprehensive care."
+1,2,8,2,"Moderate. While relaxation techniques are important, this question could be strengthened by specifying how these have helped the patient manage stress or anxiety since her recovery."
+2,1,1,3,"Good context, but could be more specific about what aspects of daily activities are being referred to (e.g. dressing, bathing, ambulation). Feedback score: 7/10"
+2,1,2,4,Excellent! This question is well-framed and relevant to the patient's symptoms. Feedback score: 9/10
+2,1,3,5,"Good start, but could be more specific about what aspects of quality of life are being referred to (e.g. physical, emotional, social). Feedback score: 7/10"
+2,1,4,5,Well-framed question that is relevant to the patient's cognitive function and decision-making capacity. Feedback score: 8/10
+2,1,5,4,"Good start, but could be more specific about what goals and priorities are being referred to (e.g. maintaining current quality of life, pursuing further treatment options). Feedback score: 7/10"
+2,1,6,4,Excellent! This question is well-framed and relevant to the patient's advance care planning. Feedback score: 9/10
+2,1,7,4,"Good start, but could be more specific about what symptoms or issues are being referred to (e.g. uncontrolled pain, anxiety). Feedback score: 7/10"
+2,1,8,3,Well-framed question that is relevant to the patient's hospitalizations and emergency department visits. Feedback score: 8/10
+2,2,1,3,"Good start, but could be more specific about what factors are being referred to (e.g. social, cultural, financial). Feedback score: 7/10"
+2,2,2,2,Excellent! This question is well-framed and relevant to the patient's overall well-being. Feedback score: 9/10
+2,2,3,1,Well-framed question that is relevant to the comprehensive assessment of the patient's situation. Feedback score: 8/10
+2,2,4,3,"Good start, but could be more specific about what cultural or religious factors are being referred to (e.g. specific beliefs, practices). Feedback score: 7/10"
+2,2,5,1,Excellent! This question is well-framed and relevant to the multidisciplinary approach involving specialists from various fields. Feedback score: 9/10
+2,2,6,3,Well-framed question that is relevant to the resources or support systems for the patient and his caregivers. Feedback score: 8/10
+2,2,7,3,"Good start, but could be more specific about what family or caregiver dynamics are being referred to (e.g. relationships, roles). Feedback score: 7/10"
+2,2,8,3,Well-framed question that is relevant to the review of the patient's advance care planning documents. Feedback score: 8/10
+3,1,1,3,Poor - lacks specific details about laboratory tests; feedback would be improved by including requested values or ranges.
+3,1,2,3,Good - asks relevant and specific questions about intracranial pressure and contusion volume.
+3,1,3,3,"Fair - while asking about intubation status is important, the question could be improved by requesting more specific information about ventilatory support."
+3,1,4,3,Bad - does not prioritize the most critical information (brain injury) and asks too many open-ended questions; feedback would be improved by focusing on specific injuries and their impact on prognosis.
+3,1,5,4,"Fair - while asking about initial neurologic examination is important, the question could be improved by requesting more specific information about motor function, sensation, and reflexes."
+3,1,6,3,Bad - does not prioritize seizure activity or post-traumatic epilepsy; feedback would be improved by focusing on specific questions related to these topics.
+3,1,7,4,"Fair - while asking about nasogastric tube placement is important, the question could be improved by requesting more specific information about gut function and any potential complications."
+3,1,8,3,Bad - does not prioritize cardiac status or arrhythmias; feedback would be improved by focusing on specific questions related to these topics.
+3,2,1,2,Good - asks relevant and specific questions about the patient's age and developmental stage and its impact on recovery and rehabilitation.
+3,2,2,3,"Fair - while asking about a multidisciplinary team approach is important, the question could be improved by requesting more specific information about each discipline's role."
+3,2,3,3,Bad - does not prioritize decompressive craniectomy or targeted temperature management; feedback would be improved by focusing on specific questions related to these topics.
+3,2,4,2,"Fair - while asking about family dynamics and social support network is important, the question could be improved by requesting more specific information about their impact on treatment decisions."
+3,2,5,2,Bad - does not prioritize a comprehensive review of medical history; feedback would be improved by focusing on specific questions related to this topic.
+3,2,6,3,"Fair - while asking about rehabilitation plan is important, the question could be improved by requesting more specific information about each therapy's role and goals."
+3,2,7,1,"Fair - while asking about family or caregiver concerns is important, the question could be improved by requesting more specific information about their needs and how they can support the patient."
+3,2,8,3,Bad - does not prioritize cognitive function testing; feedback would be improved by focusing on specific questions related to standardized tests and their relevance to treatment planning.
+4,1,1,3,"Basic information is essential; provide more context about nausea, vomiting, or diarrhea."
+4,1,2,5,Gaps in food exposure history; ask about other food-related exposures.
+4,1,3,3,Prior episodes are crucial for understanding the patient's presentation; provide more details.
+4,1,4,3,Occupational history could be relevant to symptoms; investigate further.
+4,1,5,3,Critical information about cardiovascular risk factors and comorbidities; ensure thorough assessment.
+4,1,6,4,Blood pressure and heart rate indicate possible shock; clarify physical examination findings.
+4,1,7,4,Recent travel or contaminated water exposure might contribute to illness; inquire further.
+4,1,8,5,"Missed potential causes; consider appendicitis, ruptured spleen, and other alternatives."
+4,2,1,1,Raw fish eating history is relevant but lacks context; explore seafood-related illnesses or allergies.
+4,2,2,2,Gastrointestinal symptoms might be crucial for understanding presentation; conduct thorough review.
+4,2,3,1,Alternative explanations are important to consider; discuss musculoskeletal strain and psychogenic factors.
+4,2,4,2,Medication list and potential drug interactions could impact treatment plan; investigate thoroughly.
+4,2,5,3,Vital signs and laboratory values support or refute diagnostic possibilities; ensure comprehensive assessment.
+4,2,6,2,Treatment plan considerations are critical; discuss key factors influencing patient's outcome.
+4,2,7,1,Patient's individual characteristics might affect response to treatment; explore personality traits and coping mechanisms.
+4,2,8,3,Long-term consequences or complications are important to consider when developing comprehensive care plan; investigate further.
+5,1,1,5,The question is too broad; it would be more specific to ask about changes in symptoms that are most concerning or impacting his daily life.
+5,1,2,4,"Highly relevant and specific, providing valuable context for understanding the patient's experience."
+5,1,3,4,A relevant and well-crafted question that shows empathy for the patient's emotional distress.
+5,1,4,3,"A specific and important symptom to assess; however, it would be more effective to ask about changes in visual acuity or visual field testing results."
+5,1,5,4,A highly relevant and specific question that highlights the importance of cognitive function in MS patients.
+5,1,6,5,A well-crafted question that considers the patient's overall experience with MS symptoms.
+5,1,7,4,"A specific and important symptom to assess; however, it would be more effective to ask about changes in bowel habits or urinary frequency."
+5,1,8,5,A highly relevant and specific question that highlights the importance of mobility and balance in MS patients.
+5,2,1,3,"1,This question is too vague; it would be more effective to specify which medications are being taken and what dosing schedule changes might help manage symptoms."
+5,2,2,1,A relevant and well-crafted question that shows interest in the patient's holistic approach to symptom management.
+5,2,3,3,A unique question that can provide valuable insights into the patient's understanding of the disease.
+5,2,4,2,A relevant and specific question that highlights the importance of considering overall well-being and quality of life.
+5,2,5,2,A highly relevant and specific question that can inform treatment decisions.
+5,2,6,3,A well-crafted question that considers long-term consequences or complications.
+5,2,7,1,A unique question that can provide valuable insights into the patient's concerns and uncertainties.
+5,2,8,2,A relevant and well-crafted question that shows empathy for the patient's relationships with family and friends.
+6,1,1,3,"Adequate context provided (intracranial pressure, blood pressure, heart rate) and relevant information is asked. However, the question could be more specific about what signs or symptoms of increased intracranial pressure are being referred to."
+6,1,2,4,"The question is unclear and too broad, as it could apply to various situations. It would be better rephrased to focus on a specific aspect of the patient's presentation (e.g., ""Would an immediate CT scan be more appropriate given the patient's severe headache and confusion?"")."
+6,1,3,5,A relevant and context-specific question that seeks important information about potential trauma or injuries.
+6,1,4,4,"The question is somewhat broad but still relevant to the patient's presentation. It could be rephrased for greater specificity (e.g., ""Is there a history of stroke or bleeding disorders that would affect the patient's symptoms?"")."
+6,1,5,5,Adequate context provided and relevant information is asked about the patient's level of consciousness.
+6,1,6,4,A relevant and context-specific question that seeks important information about potential focal neurological deficits.
+6,1,7,3,"Adequate context provided and relevant information is asked about recent changes in vision, hearing, or sense of smell."
+6,1,8,3,A relevant and context-specific question that seeks important information about other symptoms or signs.
+6,2,1,1,"Detailed review of medical history could be helpful but the question is too general. It would be better rephrased to focus on specific aspects (e.g., ""Is there a history of seizure disorder or brain tumors that could contribute to the patient's symptoms?"")."
+6,2,2,2,"A valid concern about alternative explanations for the patient's symptoms, but the question could be more specific and focused."
+6,2,3,2,Adequate context provided and relevant information is asked about recent changes in medications or dosages.
+6,2,4,3,"A somewhat abstract question that doesn't directly relate to the patient's presentation. It would be better rephrased to focus on specific aspects of her medical history (e.g., ""What factors contribute to the complexity of this patient's hypertension management?"")."
+6,2,5,1,The question is too general and doesn't directly relate to the patient's presentation. It would be better rephrased to focus on specific aspects of individual differences that could impact health outcomes.
+6,2,6,2,"A valid concern about common pitfalls or biases, but the question could be more specific and focused (e.g., ""What are some key cognitive biases healthcare providers should be aware of when making diagnostic decisions?"")."
+6,2,7,2,A relevant and context-specific question that seeks important information about patient engagement and adherence to treatment regimens.
+6,2,8,2,"A somewhat abstract question that doesn't directly relate to the patient's presentation. It would be better rephrased to focus on specific cultural or societal factors that could impact patient care (e.g., ""How do cultural beliefs about health and illness influence the patient's understanding of her condition?"")."
+7,1,1,4,"Risky, unclear question; context is crucial; provide more specific information about patient's condition before discussing potential risks or complications."
+7,1,2,4,Unhelpful question; no relevant prior treatment mentioned; focus on current situation and recommended interventions.
+7,1,3,5,Relevant question; attachment site examination could inform decision-making; but consider including more detail about what specifically would be examined.
+7,1,4,5,"Relevant question; tissue damage or inflammation could indicate need for surgical intervention; however, provide more context about patient's overall condition before discussing potential surgical needs."
+7,1,5,3,Unhelpful question; no unusual behaviors or symptoms mentioned; focus on immediate concerns and recommended interventions.
+7,1,6,5,Unhelpful question; relevant laboratory test results not mentioned; focus on current situation and recommended interventions.
+7,1,7,5,"Relevant question; prolonged sedation could have adverse effects; however, provide more context about patient's overall condition before discussing potential risks of coma maintenance."
+7,1,8,4,"Relevant question; infection or contamination control measures should be taken; however, provide more detail about specific precautions to take."
+7,2,1,3,Relevant question; alternative approaches could help detach organism safely; consider providing more specific ideas for approaches.
+7,2,2,3,"Relevant question; further evaluation and testing could provide valuable information; however, provide more context about what specifically would be evaluated or tested."
+7,2,3,2,"Relevant question; multidisciplinary team could bring diverse expertise to bear on the situation; however, provide more detail about how this team would contribute."
+7,2,4,3,Not relevant to immediate patient care; focus on practical concerns and recommended interventions.
+7,2,5,2,Not relevant to immediate patient care; focus on practical concerns and recommended interventions.
+7,2,6,2,"Relevant question; boundaries between human and non-human or living and non-living entities are raised; however, provide more context about how this relates to the patient's situation."
+7,2,7,3,Not relevant to immediate patient care; focus on practical concerns and recommended interventions.
+7,2,8,2,Not relevant to immediate patient care; focus on practical concerns and recommended interventions.
+8,1,1,4,"Relevant, Specific"
+8,1,2,4,"Highly Relevant, Specific"
+8,1,3,4,"Relevant, Moderately Specific"
+8,1,4,5,"Highly Relevant, Specific"
+8,1,5,3,"Relevant, Moderately Specific"
+8,1,6,3,"Relevant, Specific"
+8,1,7,5,"Highly Relevant, Specific"
+8,1,8,4,"Highly Relevant, Specific"
+8,2,1,3,"Moderately Relevant, Specific"
+8,2,2,2,"Relevant, Moderately Specific"
+8,2,3,3,"Highly Relevant, Specific"
+8,2,4,3,"Relevant, Moderately Specific"
+8,2,5,3,"Unrelated, Vague"
+8,2,6,1,"Unrelated, Vague"
+8,2,7,3,"Unrelated, Vague"
+8,2,8,1,"Unrelated, Vague"
+9,1,1,4,Excellent! This question gets straight to the heart of the patient's immediate medical concerns. The phrasing is clear and specific.
+9,1,2,3,"Good, but could be more specific. For example, what aspects of cardiovascular, respiratory, and neurological status should be evaluated?"
+9,1,3,5,Great question! Understanding prior medical treatment or interventions can significantly impact decision-making.
+9,1,4,4,"Good question, but could be more focused. What specific aspects of reconstructive surgery are being asked about? (e.g., timing, approach)"
+9,1,5,5,Excellent! This question highlights the unique challenges in wound management and tissue coverage given the patient's self-amputation and makeshift tourniquet application.
+9,1,6,4,"Good question, but could be more specific. What are the potential consequences of delaying or foregoing surgery? (e.g., infection risk, long-term disability)"
+9,1,7,4,Great question! A multidisciplinary approach is often necessary for complex cases like this.
+9,1,8,4,"Good question, but could be more focused. What specific long-term complications or sequelae are being asked about? (e.g., phantom limb pain)"
+9,2,1,2,"Good question, but could be more specific. For example, how did the patient cope with previous stressful situations?"
+9,2,2,3,Good question! Understanding the patient's psychological distress management strategies is important.
+9,2,3,3,Good question! Non-surgical interventions like psychological support or physical therapy could be valuable.
+9,2,4,1,Good question! The patient's experience could have lasting effects on his relationships and coping mechanisms.
+9,2,5,3,Good question! Self-amputation and makeshift first aid could have a significant impact on the patient's psyche.
+9,2,6,3,Great question! This case can provide valuable insights for wilderness medicine and disaster response.
+9,2,7,2,"Good question! The patient's experience could influence his perspective on life, mortality, and personal resilience."
+9,2,8,2,"Great question! Research or education opportunities exist in trauma care, wound management, or psychological resilience."
+10,1,1,3,"How does the patient's history of PTSD impact her current symptoms and overall well-being?      Relevant and specific to the case, excellent!"
+10,1,2,4,"Would an interdisciplinary approach involving specialists in surgery, anesthesia, and psychiatry be beneficial in developing a comprehensive treatment plan?    Relevant and relevant to the case, very good."
+10,1,3,4,"Has the patient received any prior psychiatric treatment or therapy, and if so, what were the outcomes? Specific and relevant to the case, very good."
+10,1,4,4,"What is the role of patient-centered care in this case, and how can it inform the development of a personalized treatment plan? Relevant and applicable to the case, good."
+10,1,5,4,"Are there any specific coping mechanisms or strategies that the patient has employed to manage her symptoms since the trauma?   Specific and relevant to the case, very good."
+10,1,6,4,"Would a thorough evaluation of the patient's social support network be helpful in determining the best course of treatment?     Relevant and applicable to the case, good."
+10,1,7,4,"How might the patient's fear of cognitive behavioral therapy impact her willingness to engage in treatment, and what alternative approaches could be explored?  Relevant and specific to the case, excellent!"
+10,1,8,4,"What specific psychological interventions or therapies would be most effective in addressing the patient's symptoms and improving her overall well-being, given her reluctance to engage with cognitive behavioral therapy?      Specific and relevant to the case, very good."
+10,2,1,3,"The concept of ""awareness"" can be applied to various fields beyond medicine. What does it mean to be aware in those contexts?   Abstract and unrelated to the case, poor."
+10,2,2,2,"Some people have a unique ability to recall memories from their childhood without any prompting. Why is that possible?  Unrelated to the case, poor."
+10,2,3,3,"The experience of being awake during surgery can be likened to other situations where one feels powerless and at the mercy of others. Are there any commonalities between these experiences?    Maybe relevant, but not specific or applicable to the case, fair."
+10,2,4,2,"Can this case be considered as an out-of-body experience?       Unrelated to the case, poor."
+10,2,5,1,"How does the concept of awareness intersect with the notion of consciousness? Are there any key differences between the two?    Theoretical and unrelated to the case, poor."
+10,2,6,3,"What are some potential implications for informed consent and patient autonomy in cases where patients become aware during surgery, as this case illustrates?   Maybe relevant, but not specific or applicable to the case, fair."
+10,2,7,3,"Can this experience be considered a form of existential crisis or philosophical awakening, given the patient's heightened awareness and introspection during the traumatic event?       Unrelated to the case, poor."
+10,2,8,1,"How might the patient's experience influence her perspective on mortality, the human condition, and the importance of human connection? Maybe relevant, but not specific or applicable to the case, fair."

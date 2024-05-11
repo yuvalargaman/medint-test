@@ -1,0 +1,17 @@
+Input	Set	Question	Feedback
+7	1	1	Risky, unclear question; context is crucial; provide more specific information about patient's condition before discussing potential risks or complications.
+7	1	2	Unhelpful question; no relevant prior treatment mentioned; focus on current situation and recommended interventions.
+7	1	3	Relevant question; attachment site examination could inform decision-making; but consider including more detail about what specifically would be examined.
+7	1	4	Relevant question; tissue damage or inflammation could indicate need for surgical intervention; however, provide more context about patient's overall condition before discussing potential surgical needs.
+7	1	5	Unhelpful question; no unusual behaviors or symptoms mentioned; focus on immediate concerns and recommended interventions.
+7	1	6	Unhelpful question; relevant laboratory test results not mentioned; focus on current situation and recommended interventions.
+7	1	7	Relevant question; prolonged sedation could have adverse effects; however, provide more context about patient's overall condition before discussing potential risks of coma maintenance.
+7	1	8	Relevant question; infection or contamination control measures should be taken; however, provide more detail about specific precautions to take.
+7	2	1	Relevant question; alternative approaches could help detach organism safely; consider providing more specific ideas for approaches.
+7	2	2	Relevant question; further evaluation and testing could provide valuable information; however, provide more context about what specifically would be evaluated or tested.
+7	2	3	Relevant question; multidisciplinary team could bring diverse expertise to bear on the situation; however, provide more detail about how this team would contribute.
+7	2	4	Not relevant to immediate patient care; focus on practical concerns and recommended interventions.
+7	2	5	Not relevant to immediate patient care; focus on practical concerns and recommended interventions.
+7	2	6	Relevant question; boundaries between human and non-human or living and non-living entities are raised; however, provide more context about how this relates to the patient's situation.
+7	2	7	Not relevant to immediate patient care; focus on practical concerns and recommended interventions.
+7	2	8	Not relevant to immediate patient care; focus on practical concerns and recommended interventions.

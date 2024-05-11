@@ -28,8 +28,7 @@ import pandas as pd
     Create the dataframe that will be used to map the scores to each
     input-set-question 
 """
-columns = ["Input", "Set", "Question", "Star Rating",
-           "Human-Context", "Human-Specificity", "Human-Relevance"]
+columns = ["Input", "Set", "Question", "Star Rating"]
 n_questions = 8
 n_sets = 2
 overall_questions = n_questions*n_sets
@@ -40,15 +39,31 @@ sets = np.vstack([np.concatenate(
     [[ii+1]*n_questions for ii in np.arange(n_sets)]).reshape(-1, 1)]*n_inputs)
 questions = np.vstack(
     [np.arange(1, n_questions+1).reshape(-1, 1)]*n_inputs*n_sets)
-ratings = np.zeros((len(inputs), 4))
+ratings = np.zeros((len(inputs), 1))
 df = pd.DataFrame(
     np.hstack([inputs, sets, questions, ratings]), columns=columns)
 # define the high and low scores
-low_scores = np.random.randint(1, 4, size=(int(len(df)/2), 4))
-high_scores = np.random.randint(3, 5, size=(int(len(df)/2), 4))
+low_scores = np.random.randint(1, 4, int(len(df)/2))
+high_scores = np.random.randint(3, 6, int(len(df)/2))
 # populate score columns with low and high scores
 idx_set1 = df[df['Set'] == 1].index
 idx_set2 = df[df['Set'] == 2].index
-df.iloc[idx_set1, 3:] = high_scores
-df.iloc[idx_set2, 3:] = low_scores
+df.loc[idx_set1, "Star Rating"] = high_scores
+df.loc[idx_set2, "Star Rating"] = low_scores
 
+for c in columns:
+    df[c] = df[c].astype(np.int32)
+
+df.to_csv("Mockup_Scores.csv", index=None)
+
+"""
+    Load the generated human feedback and add it is a column to the score dataframe
+    Since the files are tab-delimiter - modify the pd.read_csv command to 
+    accomodate
+"""
+feedback_files = glob("*Feedback.csv")
+feedback_frame = pd.concat([pd.read_csv(f, delimiter='\t') for f in feedback_files]).reset_index(drop=True)
+    
+df_generated = pd.concat([df, feedback_frame['Feedback']], axis=1)
+
+df_generated.to_csv("Generated_Mockup_Data.csv", index=None)

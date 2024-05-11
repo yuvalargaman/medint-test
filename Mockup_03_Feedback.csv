@@ -1,0 +1,17 @@
+Input	Set	Question	Feedback
+3	1	1	Poor - lacks specific details about laboratory tests; feedback would be improved by including requested values or ranges.
+3	1	2	Good - asks relevant and specific questions about intracranial pressure and contusion volume.
+3	1	3	Fair - while asking about intubation status is important, the question could be improved by requesting more specific information about ventilatory support.
+3	1	4	Bad - does not prioritize the most critical information (brain injury) and asks too many open-ended questions; feedback would be improved by focusing on specific injuries and their impact on prognosis.
+3	1	5	Fair - while asking about initial neurologic examination is important, the question could be improved by requesting more specific information about motor function, sensation, and reflexes.
+3	1	6	Bad - does not prioritize seizure activity or post-traumatic epilepsy; feedback would be improved by focusing on specific questions related to these topics.
+3	1	7	Fair - while asking about nasogastric tube placement is important, the question could be improved by requesting more specific information about gut function and any potential complications.
+3	1	8	Bad - does not prioritize cardiac status or arrhythmias; feedback would be improved by focusing on specific questions related to these topics.
+3	2	1	Good - asks relevant and specific questions about the patient's age and developmental stage and its impact on recovery and rehabilitation.
+3	2	2	Fair - while asking about a multidisciplinary team approach is important, the question could be improved by requesting more specific information about each discipline's role.
+3	2	3	Bad - does not prioritize decompressive craniectomy or targeted temperature management; feedback would be improved by focusing on specific questions related to these topics.
+3	2	4	Fair - while asking about family dynamics and social support network is important, the question could be improved by requesting more specific information about their impact on treatment decisions.
+3	2	5	Bad - does not prioritize a comprehensive review of medical history; feedback would be improved by focusing on specific questions related to this topic.
+3	2	6	Fair - while asking about rehabilitation plan is important, the question could be improved by requesting more specific information about each therapy's role and goals.
+3	2	7	Fair - while asking about family or caregiver concerns is important, the question could be improved by requesting more specific information about their needs and how they can support the patient.
+3	2	8	Bad - does not prioritize cognitive function testing; feedback would be improved by focusing on specific questions related to standardized tests and their relevance to treatment planning.

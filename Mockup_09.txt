@@ -1,9 +1,7 @@
 Input:
 A 27-year-old male, experienced a severe and life-threatening incident during a solo hiking trip in Blue John Canyon, Utah. While descending a slot canyon, a dislodged boulder trapped his right forearm against the canyon wall. During the hike, a boulder approximately 1.5 metric tons fell, crushing the patient's right forearm and pinning it against the canyon wall. After five days of entrapment without rescue, The patient made the decision to amputate his forearm to escape and seek help. Upon self-amputation, the patient was dehydrated, hypothermic, and in a state of shock. Then, the patient  applied a makeshift tourniquet and administered first aid to himself after the amputation to control bleeding. Upon rescue, the patient he was airlifted to a hospital.
-
-Input question:
+Initial question:
 What is the surgical intervention that would maximize the patient's chances of successful rehabilitation?
-
 Set 1:
 1. What are the immediate medical concerns for the patient, such as infection control, wound management, and pain management?
 2. Would a thorough evaluation of the patient's overall health, including cardiovascular, respiratory, and neurological status, be necessary before planning surgical intervention?
@@ -13,7 +11,6 @@ Set 1:
 6. How might the patient's overall physical and mental health status affect the decision-making process regarding surgical intervention, and what are the potential consequences of delaying or foregoing surgery?
 7. Would a multidisciplinary approach involving various medical specialties (e.g., orthopedics, plastics, general surgery) be necessary to ensure optimal care for this complex case?
 8. Are there any potential long-term complications or sequelae that should be considered when planning surgical intervention and rehabilitation?
-
 Set 2:
 1. Does the patient have any previous experience in managing stressful situations?
 2. How would the patient manage his psychological distress?

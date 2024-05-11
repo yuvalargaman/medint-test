@@ -1,9 +1,7 @@
 Input:
 Patient is a 72-year-old female with a history of hypertension, type 2 diabetes, and osteoarthritis. She presents to the ER with severe headache, confusion, and difficulty speaking.
-
-Initial Question:
+Initial question:
 Should the patient be admitted straight to the MRI for a scan, or would a neurological test suffice?
-
 Set 1:
 1. Are there any signs of increased intracranial pressure or brain edema? What is her current blood pressure and heart rate?
 2. Would an immediate CT scan or lumbar puncture be more appropriate in this situation?
@@ -13,7 +11,6 @@ Set 1:
 6. Are there any signs of focal neurological deficits, such as weakness, numbness, or visual field defects?
 7. Has the patient experienced any recent changes in her vision, hearing, or sense of smell that could be relevant to her presentation?
 8. Is the patient experiencing any other symptoms, such as seizures, tremors, or abnormal movements, that could be indicative of a neurologic emergency?
-
 Set 2:
 1. Would a detailed review of her medical history, including potential underlying conditions like seizure disorder or brain tumors, be helpful in understanding her presentation?
 2. Are there any alternative explanations for her symptoms that don't involve neurologic emergencies?

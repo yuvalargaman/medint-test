@@ -1,0 +1,17 @@
+Input	Set	Question	Feedback
+4	1	1	Basic information is essential; provide more context about nausea, vomiting, or diarrhea.
+4	1	2	Gaps in food exposure history; ask about other food-related exposures.
+4	1	3	Prior episodes are crucial for understanding the patient's presentation; provide more details.
+4	1	4	Occupational history could be relevant to symptoms; investigate further.
+4	1	5	Critical information about cardiovascular risk factors and comorbidities; ensure thorough assessment.
+4	1	6	Blood pressure and heart rate indicate possible shock; clarify physical examination findings.
+4	1	7	Recent travel or contaminated water exposure might contribute to illness; inquire further.
+4	1	8	Missed potential causes; consider appendicitis, ruptured spleen, and other alternatives.
+4	2	1	Raw fish eating history is relevant but lacks context; explore seafood-related illnesses or allergies.
+4	2	2	Gastrointestinal symptoms might be crucial for understanding presentation; conduct thorough review.
+4	2	3	Alternative explanations are important to consider; discuss musculoskeletal strain and psychogenic factors.
+4	2	4	Medication list and potential drug interactions could impact treatment plan; investigate thoroughly.
+4	2	5	Vital signs and laboratory values support or refute diagnostic possibilities; ensure comprehensive assessment.
+4	2	6	Treatment plan considerations are critical; discuss key factors influencing patient's outcome.
+4	2	7	Patient's individual characteristics might affect response to treatment; explore personality traits and coping mechanisms.
+4	2	8	Long-term consequences or complications are important to consider when developing comprehensive care plan; investigate further.

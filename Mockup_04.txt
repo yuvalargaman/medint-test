@@ -1,9 +1,7 @@
 Input:
 A generally healthy 58 year old male was admitted to the ER with a severe stomachace in his lower abdomen, and chest pain. At admission, blood pressure and heart rate were 132 over 90, and 87 BPM, respectively. Bloodwork revealed slightly elevated inflammation markers and hypercholesterolemia. Upon questionning, the patient reported eating raw fish about five hours before the symptoms began.
-
 Initial question:
 What is the most likely cause for the symptoms?
-
 Set 1:
 1. Did the patient experience any nausea, vomiting, or diarrhea in addition to the abdominal and chest pain?
 2. Are there any other potential food-related exposures or ingestion events around the same time frame (e.g., raw eggs, undercooked meat)?
@@ -13,7 +11,6 @@ Set 1:
 6. Are there any indications of shock or hypovolemic shock based on the patient's blood pressure, heart rate, and physical examination?
 7. Did the patient experience any recent travel or exposure to contaminated water sources that could have contributed to his illness?
 8. Are there any other potential causes for the patient's symptoms, such as appendicitis or a ruptured spleen, that should be considered in this case?
-
 Set 2:
 1. How does the patient's history of eating raw fish fit into a broader pattern of seafood-related illnesses or allergies?
 2. Would a detailed review of the patient's gastrointestinal symptoms, such as those related to irritable bowel syndrome (IBS) or inflammatory bowel disease (IBD), be helpful in understanding his presentation?

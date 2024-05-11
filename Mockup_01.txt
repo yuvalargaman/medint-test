@@ -1,9 +1,7 @@
 Input:
 Patient is a 55 year old female recovering from breast cancer. Patient has undergone double mastectomy, and has made a full recovery following chemotherapy. Patient suffers from neuropathic pain in her left torso following the surgery, and cognitive decline related to the chemotherapy. For her pain, she has been successfully treated with duloxetine and oxicodone.
-
 Initial question:
 What are the available treatments for cognitive decline for this patient?
-
 Set 1:
 1. Has the patient been evaluated by a neurologist or cognitive specialist to assess the severity and specific aspects of her cognitive decline?
 2. Are there any other symptoms accompanying her cognitive decline, such as depression or anxiety, that might also need to be addressed?
@@ -13,7 +11,6 @@ Set 1:
 6. Is the patient interested in and eligible for clinical trials focusing on cognitive impairment after chemotherapy?
 7. Could the patient benefit from integrative therapies such as mindfulness, meditation, or acupuncture, which have been explored in some studies for cognitive improvement?
 8. What support systems does the patient have in place (e.g., family, community groups), and how might these be leveraged to support her cognitive health?
-
 Set 2:
 1. Does the patient have any family members or friends who have experienced similar cognitive changes after undergoing cancer treatment, and if so, how did they adapt?
 2. Are there any specific types of exercises or physical activities that the patient finds enjoyable and has been able to continue since her recovery?
@@ -22,5 +19,4 @@ Set 2:
 5. Are there any specific medical or health topics that the patient is particularly interested in learning more about, such as nutrition, mental health, or wellness strategies?
 6. Does the patient have a favorite hobby or creative outlet that she's been able to continue or resume since her recovery, and if so, how has it helped her cope with stress or emotions?
 7. Are there any specific travel plans or trips that the patient is looking forward to taking in the near future, and if so, what steps can be taken to ensure her safety and comfort during those trips?
-8. Does the patient have a preferred way of relaxing or unwinding after a long day, such as reading, listening to music, or practicing yoga, and if so, how has it helped her manage stress or anxiety
-since her recovery?
+8. Does the patient have a preferred way of relaxing or unwinding after a long day, such as reading, listening to music, or practicing yoga, and if so, how has it helped her manage stress or anxiety since her recovery?
