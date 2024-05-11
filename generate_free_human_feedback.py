@@ -21,3 +21,5 @@ mockup = load_text('Mockup_01.txt')
 prompt = '\n'.join([pre_prompt, mockup])
 
 result = query_ollama(prompt)
+
+print(result.json()['response'])
