@@ -17,7 +17,8 @@ def query_ollama(prompt, url="http://localhost:11434/api/generate", model="llama
     return requests.post(url, json=payload)
     
 pre_prompt = "Based in the input and initial question in the prompt, generate a critical human feedback responses for the quality of each of the questions in each of the sets. Consider context, specificity, and relevance."
-mockup = load_text('Mockup_01.txt')
+file_name = input("Type filename for analysis: ")
+mockup = load_text(file_name)
 prompt = '\n'.join([pre_prompt, mockup])
 
 result = query_ollama(prompt)
