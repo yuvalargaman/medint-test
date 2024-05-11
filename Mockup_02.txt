@@ -1,0 +1,25 @@
+Input:
+Patient is an 89 y/o male with a history of lifetime smoking, chronic obstructive pulmonary disease for the past 40 years, and a prefrontal aneurism. Due to his age, patient also suffers from renal dysfunction. He is treated with Fusid for his renal dysfunction and hypertension, and statins for his atherosclerosis. Furthermore, he requires enriched oxygen to maintain normal saturation levels.
+
+Initial question:
+Should the patient continue his regimen or start receiving palliative care? 
+
+Set 1:
+1. What is the patient's current functional status and level of independence? Does he require assistance with daily activities, such as dressing, bathing, or ambulation?
+2. Has the patient experienced any recent changes in his symptoms, such as worsening shortness of breath, increased fatigue, or decreased oxygen saturation levels?
+3. How does the patient rate his overall quality of life and satisfaction with his current treatment plan? Are there specific aspects that he finds particularly distressing or bothersome?
+4. Have there been any recent changes in his cognitive function or mental status that might impact his ability to participate in decision-making or adhere to treatment recommendations?
+5. What are the patient's goals and priorities at this stage of life? Does he wish to focus on maintaining his current quality of life, pursuing further treatment options, or exploring end-of-life care alternatives?
+6. Have there been any recent discussions with the patient about advance care planning, such as a living will or durable power of attorney for healthcare decisions?
+7. Are there any specific symptoms or issues that are driving the patient's decision to seek palliative care (e.g., uncontrolled pain, anxiety, or depression)?
+8. Has the patient experienced any recent hospitalizations or emergency department visits that might indicate a need for more comprehensive care and support?
+
+Set 2:
+1. Are there any factors that could influence our decision-making in this case?
+2. Could further evaluation and management improve the patient's overall well-being?
+3. Would a more comprehensive assessment of the patient's situation be helpful in determining the best course of action?
+4. Are there any cultural or religious factors that could influence our decision-making in this case, and if so, how might they impact the patient's priorities and preferences?
+5 . Would a multidisciplinary approach involving specialists from various fields (e.g., pulmonology, cardiology, geriatrics) be beneficial in developing a comprehensive care plan for the patient?
+6. Are there any specific resources or support systems that could help the patient and his caregivers cope with the challenges of his condition and the decision-making process?
+7. Are there any specific family or caregiver dynamics that could impact our decision-making in this case, and if so, how might we involve them in the patient's care planning process?
+8. Would a review of the patient's advance care planning documents, such as his living will or durable power of attorney for healthcare decisions, be beneficial in informing our decision-making and ensuring that his wishes are respected?

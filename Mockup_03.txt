@@ -1,0 +1,29 @@
+Input:
+A 14 year old male suffered severe traumatic brain injury due to a collision with a car while riding his bicycle without a helmet. CT scans revealed a prefrontal contusion in his left hemisphere, and significant subdural swelling. The patient scored 5 on the Glasgow Coma Scale.
+
+Initial question:
+What is the best course of operation that would maximize the patient's chances of survival and recovery?
+
+Set 1:
+1. What are the results of the patient's initial laboratory tests, including complete blood counts, electrolyte levels, and liver function tests?
+2. Are there any signs of increased intracranial pressure or cerebral edema on the CT scans? If so, what is the estimated volume of the contusion?
+3. Has the patient been intubated for airway protection, and if so, what is his ventilatory status (e.g., mechanical ventilation, spontaneous
+breathing)?
+4. Are there any significant injuries outside of the brain, such as thoracic or abdominal trauma that could impact the patient's overall prognosis?
+5. What is the patient's initial neurologic examination revealing in terms of motor function, sensation, and reflexes?
+6. Are there any signs of seizure activity or post-traumatic epilepsy on the initial EEG or neurological examination?
+7. Has the patient had a nasogastric tube placed for nutrition, and if so, what is his gut function like (e.g., ileus, bowel obstruction)?
+8. What is the patient's cardiac status, including heart rate, blood pressure, and any signs of arrhythmias or cardiac tamponade?
+
+Set 2:
+1. How does the patient's age and developmental stage (14 years old) impact his potential for recovery and rehabilitation?
+2. Would a multidisciplinary team approach involving neurosurgery, critical care, physical medicine and rehabilitation, and pediatrics be beneficial
+in managing this complex case?
+3. Are there any alternative treatments or interventions that could potentially improve the patient's outcomes, such as decompressive craniectomy or
+targeted temperature management?
+4. How does the patient's family dynamics and social support network influence his overall well-being and treatment decisions?
+5. Would a comprehensive review of the patient's medical history, including any pre-injury conditions or medications, be valuable in informing this
+decision?
+6. Would a comprehensive rehabilitation plan, including physical, occupational, and speech therapies, be beneficial in maximizing the patient's potential for recovery?
+7. Are there any specific family or caregiver concerns that need to be addressed during this critical period, such as emotional support, education on the patient's condition, or assistance with daily care?
+8. Would a review of the patient's cognitive function using standardized tests (e.g., Glasgow Coma Scale, Disability Rating Scale) provide valuable information for treatment planning and recovery prediction?

@@ -1,0 +1,25 @@
+Input:
+Patient is a 72-year-old female with a history of hypertension, type 2 diabetes, and osteoarthritis. She presents to the ER with severe headache, confusion, and difficulty speaking.
+
+Initial Question:
+Should the patient be admitted straight to the MRI for a scan, or would a neurological test suffice?
+
+Set 1:
+1. Are there any signs of increased intracranial pressure or brain edema? What is her current blood pressure and heart rate?
+2. Would an immediate CT scan or lumbar puncture be more appropriate in this situation?
+3. Has she experienced any recent trauma or injuries that could have caused her symptoms?
+4. Is there a history of stroke, bleeding disorders, or other neurologic conditions that would affect the patient's presentation?
+5. Is the patient's level of consciousness stable, or is there a trend towards worsening confusion or altered mental status?
+6. Are there any signs of focal neurological deficits, such as weakness, numbness, or visual field defects?
+7. Has the patient experienced any recent changes in her vision, hearing, or sense of smell that could be relevant to her presentation?
+8. Is the patient experiencing any other symptoms, such as seizures, tremors, or abnormal movements, that could be indicative of a neurologic emergency?
+
+Set 2:
+1. Would a detailed review of her medical history, including potential underlying conditions like seizure disorder or brain tumors, be helpful in understanding her presentation?
+2. Are there any alternative explanations for her symptoms that don't involve neurologic emergencies?
+3. Are there any recent changes in her medications or dosages that could have contributed to her symptoms? Has she experienced any recent trauma or injuries?
+4. What factors contribute to the complexity of a patient' s medical history?
+5. How do individual differences in personality, coping mechanisms, or social support networks impact health outcomes?
+6. What are some common pitfalls or biases that healthcare providers should be aware of when making diagnostic or treatment decisions?
+7. Are there any key considerations that would influence our approach to improving patient engagement and adherence to treatment regimens?
+8. How do cultural or societal factors influence our understanding of health and illness, and how might this impact our approach to patient care?
